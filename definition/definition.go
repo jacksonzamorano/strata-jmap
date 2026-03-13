@@ -8,7 +8,7 @@ import (
 
 var Manifest = component.ComponentManifest{
 	Name:    "jmap",
-	Version: "1.0.0",
+	Version: "1.0.2",
 }
 
 type AccountScope struct {
